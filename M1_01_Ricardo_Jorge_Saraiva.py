@@ -1,4 +1,4 @@
-import openpyxl
+import openpyxl 
 wb = openpyxl.Workbook()
 wb = openpyxl.load_workbook("stock_fruta.xlsx")
 sheetname = wb.sheetnames[0] #variável para a 1.ª folha
