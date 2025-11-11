@@ -1,0 +1,20 @@
+# Ficheiros gerados pelo Python (bytecode)
+__pycache__/
+*.pyc
+
+# Ficheiros e pastas do ambiente virtual
+venv/
+.venv/
+
+# Ficheiros temporários e logs
+*.log
+*.tmp
+.DS_Store # (Para utilizadores Mac)
+
+# Ficheiros gerados pelo editor VS Code
+.vscode/
+
+# Ficheiros do projeto que não devem ir para o GitHub
+M1_01_Ricardo_Jorge_Saraiva.docx
+M1_01_Ricardo_Jorge_Saraiva.pdf
+Stock-prototype_screenshot.png
